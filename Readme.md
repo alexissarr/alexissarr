@@ -1,6 +1,32 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Alexis
 
-Full Stack Developer building business applications with Next.js, React, and TypeScript.
+## 👨‍💻 About Me
+
+Full Stack Developer building applications with Next.js, React, and TypeScript.
+I craft modern web experiences with cutting-edge technologies. Passionate about building performant, accessible, and scalable applications.
+
+## 🛠️ What I Do
+
+- **Frontend Architecture**: Next.js, React, TypeScript
+- **Backend Development**: Node.js, PostgreSQL, Edge Computing
+- **Developer Experience**: CI/CD, Testing, Documentation
+- **UI/UX**: Responsive Design, Accessibility, Performance
+
+## 🌱 Current Focus
+
+Building a **Business Expenses Tracker** - A SaaS platform featuring:
+
+- Edge-first architecture with Next.js 14
+- Type-safe APIs using Hono
+- Real-time data with React Query
+- Multi-language support (EN/FR)
+
+## 💡 Core Principles
+
+- Write maintainable, well-tested code
+- Prioritize user experience and accessibility
+- Share knowledge and contribute to open source
+- Continuously learn and adapt to new technologies
 
 ## 🔭 Current Project
 
@@ -25,9 +51,8 @@ Business Expenses Tracker - A SaaS platform for tracking business expenses built
 
 ## 📫 How to reach me
 
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Website: [your-website.com](https://your-website.com)
+- LinkedIn: [Alexis Famara SARR](https://www.linkedin.com/in/alexis-famara-sarr-4a093583/)
+- Twitter: [sarr_alex](https://x.com/sarr_alex)
 
 ## 🌱 Recent Projects
 
